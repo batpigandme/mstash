@@ -1,0 +1,30 @@
+---
+title: "tidyverse by the numbers"
+author: "Mara Averick"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    keep_md: TRUE
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+knitr::opts_chunk$set(echo = TRUE, fig.path = 'fig/', dev = 'png', dpi = 300, fig.retina = 2)
+```
+
+```{r retrieval-info, echo = FALSE}
+overview_info <- file.info(here::here("mloss", "data", "overview.csv"))
+overview_date <- lubridate::as_date(overview_info$mtime)
+```
+
+__Data retrieved: `r overview_date`__
+
+```{r read-dat}
+options(readr.num_columns = 0) # supress columns message
+overview <- read_csv(here::here("mloss", "data", "overview.csv"))
+org_downloads <- read_csv(here::here("mloss", "data", "org_downloads.csv"))
+count_commit_num <- read_csv(here::here("mloss", "data", "count_commit_num.csv"))
+tot_contrib_commits<- read_csv(here::here("mloss", "data", "tot_contrib_commits.csv"))
+```
+
+
