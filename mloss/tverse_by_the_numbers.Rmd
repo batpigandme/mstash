@@ -8,9 +8,14 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-library(tidyverse)
 knitr::opts_chunk$set(echo = TRUE, fig.path = 'fig/', dev = 'png', dpi = 300, fig.retina = 2)
 ```
+
+```{r libs, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(gt)
+```
+
 
 ```{r retrieval-info, echo = FALSE}
 overview_info <- file.info(here::here("mloss", "data", "overview.csv"))
@@ -27,4 +32,28 @@ count_commit_num <- read_csv(here::here("mloss", "data", "count_commit_num.csv")
 tot_contrib_commits<- read_csv(here::here("mloss", "data", "tot_contrib_commits.csv"))
 ```
 
+```{r}
+overview %>%
+  filter(owner == "tidyverse" & downloads > 0) %>%
+  select(one_of(c("repo", "downloads", "watchers", "revdep"))) %>%
+  arrange(desc(downloads)) %>%
+  gt() %>%
+  tab_header(
+    title = "tidyverse package usage",
+    subtitle = glue::glue("as of {overview_date}")
+  ) %>%
+  fmt_number(
+    columns = vars(downloads, watchers, revdep),
+    decimals = 0
+  )
+```
+
+```{r results = "asis"}
+knitr::kable(
+  overview %>%
+    filter(owner == "tidyverse" & downloads > 0) %>%
+    select(one_of(c("repo", "downloads", "watchers", "revdep"))) %>%
+    arrange(desc(downloads))
+)
+```
 
