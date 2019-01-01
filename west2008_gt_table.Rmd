@@ -101,3 +101,29 @@ lindberg2016 %>%
 
 __Original table as image__
 ![Lindberg 2016 Table 4](https://i.imgur.com/B4MezFX.png)
+
+
+Same deal for table 1
+
+```{r}
+lindberg_table1 <- tibble::tribble(
+                       ~Construct,                                                                                         ~Definition,
+  "Development interdependencies", "Interdependencies arising from tasks that necessitate unanticipated interactions with other tasks",
+    "Developer interdependencies",    "Interdependencies where developers require input from other developers to complete their tasks",
+             "Activity variation",                                  "Diversity of activities comprising an instantiation of a routine",
+                "Order variation",                    "Diversity of the sequencing of activity types in an instantiation of a routine"
+  )
+
+```
+
+```{r}
+lindberg_table1 %>%
+  gt() %>%
+  tab_header(title = "Key Constructs") %>%
+  tab_footnote(
+    footnote = md("Aron Lindberg, Nicholas Berente, James Gaskin, Kalle Lyytinen (2016) Coordinating Interdependencies in Online Communities: A Study of an Open Source Software Project. _Information Systems Research_"),
+    locations = cells_title(groups = "title")
+  )
+```
+
+![Lindberg 2016 Table 1](https://i.imgur.com/9aTX0Gp.png)
