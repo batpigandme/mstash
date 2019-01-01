@@ -48,7 +48,7 @@ openness_forms_dims %>%
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
-#fvuzlsmkex .gt_table {
+#podngnykgh .gt_table {
   border-collapse: collapse;
   margin-left: auto;
   margin-right: auto;
@@ -66,13 +66,13 @@ openness_forms_dims %>%
   /* table.border.top.color */
 }
 
-#fvuzlsmkex .gt_heading {
+#podngnykgh .gt_heading {
   background-color: #FFFFFF;
   /* heading.background.color */
   border-bottom-color: #FFFFFF;
 }
 
-#fvuzlsmkex .gt_title {
+#podngnykgh .gt_title {
   color: #000000;
   font-size: 125%;
   /* heading.title.font.size */
@@ -83,7 +83,7 @@ openness_forms_dims %>%
   border-bottom-width: 0;
 }
 
-#fvuzlsmkex .gt_subtitle {
+#podngnykgh .gt_subtitle {
   color: #000000;
   font-size: 85%;
   /* heading.subtitle.font.size */
@@ -94,7 +94,7 @@ openness_forms_dims %>%
   border-top-width: 0;
 }
 
-#fvuzlsmkex .gt_bottom_border {
+#podngnykgh .gt_bottom_border {
   border-bottom-style: solid;
   /* heading.border.bottom.style */
   border-bottom-width: 2px;
@@ -103,7 +103,7 @@ openness_forms_dims %>%
   /* heading.border.bottom.color */
 }
 
-#fvuzlsmkex .gt_column_spanner {
+#podngnykgh .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #A8A8A8;
@@ -111,7 +111,7 @@ openness_forms_dims %>%
   padding-bottom: 4px;
 }
 
-#fvuzlsmkex .gt_col_heading {
+#podngnykgh .gt_col_heading {
   color: #000000;
   background-color: #FFFFFF;
   /* column_labels.background.color */
@@ -123,11 +123,11 @@ openness_forms_dims %>%
   margin: 10px;
 }
 
-#fvuzlsmkex .gt_sep_right {
+#podngnykgh .gt_sep_right {
   border-right: 5px solid #FFFFFF;
 }
 
-#fvuzlsmkex .gt_group_heading {
+#podngnykgh .gt_group_heading {
   padding: 8px;
   color: #000000;
   background-color: #FFFFFF;
@@ -150,7 +150,7 @@ openness_forms_dims %>%
   /* stub_group.border.bottom  .color */
 }
 
-#fvuzlsmkex .gt_empty_group_heading {
+#podngnykgh .gt_empty_group_heading {
   padding: 0.5px;
   color: #000000;
   background-color: #FFFFFF;
@@ -173,28 +173,28 @@ openness_forms_dims %>%
   /* stub_group.border.bottom  .color */
 }
 
-#fvuzlsmkex .gt_striped tr:nth-child(even) {
+#podngnykgh .gt_striped tr:nth-child(even) {
   background-color: #f2f2f2;
 }
 
-#fvuzlsmkex .gt_row {
+#podngnykgh .gt_row {
   padding: 10px;
   /* row.padding */
   margin: 10px;
 }
 
-#fvuzlsmkex .gt_stub {
+#podngnykgh .gt_stub {
   border-right-style: solid;
   border-right-width: 2px;
   border-right-color: #A8A8A8;
   text-indent: 5px;
 }
 
-#fvuzlsmkex .gt_stub.gt_row {
+#podngnykgh .gt_stub.gt_row {
   background-color: #FFFFFF;
 }
 
-#fvuzlsmkex .gt_summary_row {
+#podngnykgh .gt_summary_row {
   background-color: #FFFFFF;
   /* summary_row.background.color */
   padding: 6px;
@@ -203,13 +203,13 @@ openness_forms_dims %>%
   /* summary_row.text_transform */
 }
 
-#fvuzlsmkex .gt_first_summary_row {
+#podngnykgh .gt_first_summary_row {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #A8A8A8;
 }
 
-#fvuzlsmkex .gt_table_body {
+#podngnykgh .gt_table_body {
   border-top-style: solid;
   /* field.border.top.style */
   border-top-width: 2px;
@@ -224,55 +224,55 @@ openness_forms_dims %>%
   /* field.border.bottom.color */
 }
 
-#fvuzlsmkex .gt_footnote {
+#podngnykgh .gt_footnote {
   font-size: 90%;
   /* footnote.font.size */
   padding: 4px;
   /* footnote.padding */
 }
 
-#fvuzlsmkex .gt_sourcenote {
+#podngnykgh .gt_sourcenote {
   font-size: 90%;
   /* sourcenote.font.size */
   padding: 4px;
   /* sourcenote.padding */
 }
 
-#fvuzlsmkex .gt_center {
+#podngnykgh .gt_center {
   text-align: center;
 }
 
-#fvuzlsmkex .gt_left {
+#podngnykgh .gt_left {
   text-align: left;
 }
 
-#fvuzlsmkex .gt_right {
+#podngnykgh .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#fvuzlsmkex .gt_font_normal {
+#podngnykgh .gt_font_normal {
   font-weight: normal;
 }
 
-#fvuzlsmkex .gt_font_bold {
+#podngnykgh .gt_font_bold {
   font-weight: bold;
 }
 
-#fvuzlsmkex .gt_font_italic {
+#podngnykgh .gt_font_italic {
   font-style: italic;
 }
 
-#fvuzlsmkex .gt_super {
+#podngnykgh .gt_super {
   font-size: 65%;
 }
 
-#fvuzlsmkex .gt_footnote_glyph {
+#podngnykgh .gt_footnote_glyph {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="fvuzlsmkex"><!--gt table start-->
+<div id="podngnykgh"><!--gt table start-->
 <table class='gt_table'>
 <thead>
 <tr>
@@ -317,4 +317,299 @@ openness_forms_dims %>%
 </tfoot></table>
 <!--gt table end-->
 </div><!--/html_preserve-->
+
+## Bonus
+
+One from Gasson, Susan, and Jim Waters. “Using a Grounded Theory Approach to Study Online Collaboration Behaviors.” _European Journal of Information Systems_ 22.1 (2013): 95–118.
+
+
+```r
+gasson2013 <- tibble::tribble(
+               ~Level,                                                                                                                                                                                                                                                                           ~Form.of.activity,                                                                                                                                                                                                           ~Observed.learning.interactions,
+      "Participation",                                                                                                                         "Observable behavior that denotes interaction with course materials through passive activity and externalization (reproduction) of knowledge acquired in this way.",                                                                    "Predominantly contractual reproduction of knowledge, as student grades depend on the frequency and quality of discussion posts. This results in individual learning.",
+        "Involvement",                                                               "Behavior that indicates a psychological state of identifi- cation with course objects, indicating the internalization of knowledge from other learners and the reuse (objectivation) of such knowledge in discussion posts.",                                               "Engaged students, who appear to be enthusiastic about the topic and who debate points raised by others. This results in a joint learning outcome (shared knowledge across peer-learners).",
+  "Social Engagement", "Behavior indicating enthusiastic commitment to the facilitation and direction of sustained learning (cycles of knowledge externalization, objectivation, internalization, and reframing). Socially engaged students interacted with peers in the learning community as well as the topic.", "Students who actively manage social interactions with peer-learners, explicitly facilitating or directing discussions to reframe the subject of discussion. This results in the active co-construction of knowledge with peer-learners."
+  )
+
+gasson2013 %>%
+  gt() %>%
+  cols_label(
+    Form.of.activity = "Form of activity",
+    Observed.learning.interactions = "Observed learning interactions"
+  ) %>%
+  tab_header(title = "Three levels of socially situated engagement with the peer learning community") %>%
+  
+  tab_footnote(
+    footnote = md("Gasson, Susan, and Jim Waters. “Using a Grounded Theory Approach to Study Online Collaboration Behaviors.” _European Journal of Information Systems_ 22.1 (2013): 95–118."),
+    locations = cells_title(groups = "title")
+  )
+```
+
+<!--html_preserve--><style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+#inlshcgydw .gt_table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #000000;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  /* table.background.color */
+  width: auto;
+  /* table.width */
+  border-top-style: solid;
+  /* table.border.top.style */
+  border-top-width: 2px;
+  /* table.border.top.width */
+  border-top-color: #A8A8A8;
+  /* table.border.top.color */
+}
+
+#inlshcgydw .gt_heading {
+  background-color: #FFFFFF;
+  /* heading.background.color */
+  border-bottom-color: #FFFFFF;
+}
+
+#inlshcgydw .gt_title {
+  color: #000000;
+  font-size: 125%;
+  /* heading.title.font.size */
+  padding-top: 4px;
+  /* heading.top.padding */
+  padding-bottom: 1px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#inlshcgydw .gt_subtitle {
+  color: #000000;
+  font-size: 85%;
+  /* heading.subtitle.font.size */
+  padding-top: 1px;
+  padding-bottom: 4px;
+  /* heading.bottom.padding */
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#inlshcgydw .gt_bottom_border {
+  border-bottom-style: solid;
+  /* heading.border.bottom.style */
+  border-bottom-width: 2px;
+  /* heading.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* heading.border.bottom.color */
+}
+
+#inlshcgydw .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#inlshcgydw .gt_col_heading {
+  color: #000000;
+  background-color: #FFFFFF;
+  /* column_labels.background.color */
+  font-size: 16px;
+  /* column_labels.font.size */
+  font-weight: initial;
+  /* column_labels.font.weight */
+  padding: 10px;
+  margin: 10px;
+}
+
+#inlshcgydw .gt_sep_right {
+  border-right: 5px solid #FFFFFF;
+}
+
+#inlshcgydw .gt_group_heading {
+  padding: 8px;
+  color: #000000;
+  background-color: #FFFFFF;
+  /* stub_group.background.color */
+  font-size: 16px;
+  /* stub_group.font.size */
+  font-weight: initial;
+  /* stub_group.font.weight */
+  border-top-style: solid;
+  /* stub_group.border.top.style */
+  border-top-width: 2px;
+  /* stub_group.border.top.width */
+  border-top-color: #A8A8A8;
+  /* stub_group.border.top.color */
+  border-bottom-style: solid;
+  /* stub_group.border.bottom  .style */
+  border-bottom-width: 2px;
+  /* stub_group.border.bottom  .width */
+  border-bottom-color: #A8A8A8;
+  /* stub_group.border.bottom  .color */
+}
+
+#inlshcgydw .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #000000;
+  background-color: #FFFFFF;
+  /* stub_group.background.color */
+  font-size: 16px;
+  /* stub_group.font.size */
+  font-weight: initial;
+  /* stub_group.font.weight */
+  border-top-style: solid;
+  /* stub_group.border.top.style */
+  border-top-width: 2px;
+  /* stub_group.border.top.width */
+  border-top-color: #A8A8A8;
+  /* stub_group.border.top.color */
+  border-bottom-style: solid;
+  /* stub_group.border.bottom  .style */
+  border-bottom-width: 2px;
+  /* stub_group.border.bottom  .width */
+  border-bottom-color: #A8A8A8;
+  /* stub_group.border.bottom  .color */
+}
+
+#inlshcgydw .gt_striped tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#inlshcgydw .gt_row {
+  padding: 10px;
+  /* row.padding */
+  margin: 10px;
+}
+
+#inlshcgydw .gt_stub {
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #A8A8A8;
+  text-indent: 5px;
+}
+
+#inlshcgydw .gt_stub.gt_row {
+  background-color: #FFFFFF;
+}
+
+#inlshcgydw .gt_summary_row {
+  background-color: #FFFFFF;
+  /* summary_row.background.color */
+  padding: 6px;
+  /* summary_row.padding */
+  text-transform: inherit;
+  /* summary_row.text_transform */
+}
+
+#inlshcgydw .gt_first_summary_row {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+}
+
+#inlshcgydw .gt_table_body {
+  border-top-style: solid;
+  /* field.border.top.style */
+  border-top-width: 2px;
+  /* field.border.top.width */
+  border-top-color: #A8A8A8;
+  /* field.border.top.color */
+  border-bottom-style: solid;
+  /* field.border.bottom.style */
+  border-bottom-width: 2px;
+  /* field.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* field.border.bottom.color */
+}
+
+#inlshcgydw .gt_footnote {
+  font-size: 90%;
+  /* footnote.font.size */
+  padding: 4px;
+  /* footnote.padding */
+}
+
+#inlshcgydw .gt_sourcenote {
+  font-size: 90%;
+  /* sourcenote.font.size */
+  padding: 4px;
+  /* sourcenote.padding */
+}
+
+#inlshcgydw .gt_center {
+  text-align: center;
+}
+
+#inlshcgydw .gt_left {
+  text-align: left;
+}
+
+#inlshcgydw .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#inlshcgydw .gt_font_normal {
+  font-weight: normal;
+}
+
+#inlshcgydw .gt_font_bold {
+  font-weight: bold;
+}
+
+#inlshcgydw .gt_font_italic {
+  font-style: italic;
+}
+
+#inlshcgydw .gt_super {
+  font-size: 65%;
+}
+
+#inlshcgydw .gt_footnote_glyph {
+  font-style: italic;
+  font-size: 65%;
+}
+</style>
+<div id="inlshcgydw"><!--gt table start-->
+<table class='gt_table'>
+<thead>
+<tr>
+<th class='gt_heading gt_title gt_font_normal gt_center' colspan='3'>Three levels of socially situated engagement with the peer learning community<sup class='gt_footnote_glyph'>1</sup></th>
+</tr>
+<tr>
+<th class='gt_heading gt_subtitle gt_font_normal gt_center gt_bottom_border' colspan='3'></th>
+</tr>
+<tr>
+<th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Level</th>
+<th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Form of activity</th>
+<th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Observed learning interactions</th>
+</tr>
+<tbody class='gt_table_body gt_striped'>
+<tr>
+<td class='gt_row gt_left'>Participation    </td>
+<td class='gt_row gt_left'>Observable behavior that denotes interaction with course materials through passive activity and externalization (reproduction) of knowledge acquired in this way.                                                                                                                        </td>
+<td class='gt_row gt_left'>Predominantly contractual reproduction of knowledge, as student grades depend on the frequency and quality of discussion posts. This results in individual learning.                                                                   </td>
+</tr>
+<tr>
+<td class='gt_row gt_left'>Involvement      </td>
+<td class='gt_row gt_left'>Behavior that indicates a psychological state of identifi- cation with course objects, indicating the internalization of knowledge from other learners and the reuse (objectivation) of such knowledge in discussion posts.                                                              </td>
+<td class='gt_row gt_left'>Engaged students, who appear to be enthusiastic about the topic and who debate points raised by others. This results in a joint learning outcome (shared knowledge across peer-learners).                                              </td>
+</tr>
+<tr>
+<td class='gt_row gt_left'>Social Engagement</td>
+<td class='gt_row gt_left'>Behavior indicating enthusiastic commitment to the facilitation and direction of sustained learning (cycles of knowledge externalization, objectivation, internalization, and reframing). Socially engaged students interacted with peers in the learning community as well as the topic.</td>
+<td class='gt_row gt_left'>Students who actively manage social interactions with peer-learners, explicitly facilitating or directing discussions to reframe the subject of discussion. This results in the active co-construction of knowledge with peer-learners.</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan='3' class='gt_footnote'><sup class='gt_footnote_glyph'><em>1</em></sup> Gasson, Susan, and Jim Waters. “Using a Grounded Theory Approach to Study Online Collaboration Behaviors.” <em>European Journal of Information Systems</em> 22.1 (2013): 95–118.</td>
+</tr>
+</tfoot></table>
+<!--gt table end-->
+</div><!--/html_preserve-->
+
 

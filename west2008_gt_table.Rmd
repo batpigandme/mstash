@@ -40,3 +40,31 @@ openness_forms_dims %>%
   )
 ```
 
+## Bonus
+
+One from Gasson, Susan, and Jim Waters. “Using a Grounded Theory Approach to Study Online Collaboration Behaviors.” _European Journal of Information Systems_ 22.1 (2013): 95–118.
+
+```{r}
+gasson2013 <- tibble::tribble(
+               ~Level,                                                                                                                                                                                                                                                                           ~Form.of.activity,                                                                                                                                                                                                           ~Observed.learning.interactions,
+      "Participation",                                                                                                                         "Observable behavior that denotes interaction with course materials through passive activity and externalization (reproduction) of knowledge acquired in this way.",                                                                    "Predominantly contractual reproduction of knowledge, as student grades depend on the frequency and quality of discussion posts. This results in individual learning.",
+        "Involvement",                                                               "Behavior that indicates a psychological state of identifi- cation with course objects, indicating the internalization of knowledge from other learners and the reuse (objectivation) of such knowledge in discussion posts.",                                               "Engaged students, who appear to be enthusiastic about the topic and who debate points raised by others. This results in a joint learning outcome (shared knowledge across peer-learners).",
+  "Social Engagement", "Behavior indicating enthusiastic commitment to the facilitation and direction of sustained learning (cycles of knowledge externalization, objectivation, internalization, and reframing). Socially engaged students interacted with peers in the learning community as well as the topic.", "Students who actively manage social interactions with peer-learners, explicitly facilitating or directing discussions to reframe the subject of discussion. This results in the active co-construction of knowledge with peer-learners."
+  )
+
+gasson2013 %>%
+  gt() %>%
+  cols_label(
+    Form.of.activity = "Form of activity",
+    Observed.learning.interactions = "Observed learning interactions"
+  ) %>%
+  tab_header(title = "Three levels of socially situated engagement with the peer learning community") %>%
+  
+  tab_footnote(
+    footnote = md("Gasson, Susan, and Jim Waters. “Using a Grounded Theory Approach to Study Online Collaboration Behaviors.” _European Journal of Information Systems_ 22.1 (2013): 95–118."),
+    locations = cells_title(groups = "title")
+  )
+
+```
+
+
