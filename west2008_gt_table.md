@@ -45,10 +45,11 @@ openness_forms_dims %>%
 ```
 
 <!--html_preserve--><style>html {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#podngnykgh .gt_table {
+#jdujxpeapx .gt_table {
+  display: table;
   border-collapse: collapse;
   margin-left: auto;
   margin-right: auto;
@@ -66,13 +67,13 @@ openness_forms_dims %>%
   /* table.border.top.color */
 }
 
-#podngnykgh .gt_heading {
+#jdujxpeapx .gt_heading {
   background-color: #FFFFFF;
   /* heading.background.color */
   border-bottom-color: #FFFFFF;
 }
 
-#podngnykgh .gt_title {
+#jdujxpeapx .gt_title {
   color: #000000;
   font-size: 125%;
   /* heading.title.font.size */
@@ -83,7 +84,7 @@ openness_forms_dims %>%
   border-bottom-width: 0;
 }
 
-#podngnykgh .gt_subtitle {
+#jdujxpeapx .gt_subtitle {
   color: #000000;
   font-size: 85%;
   /* heading.subtitle.font.size */
@@ -94,7 +95,7 @@ openness_forms_dims %>%
   border-top-width: 0;
 }
 
-#podngnykgh .gt_bottom_border {
+#jdujxpeapx .gt_bottom_border {
   border-bottom-style: solid;
   /* heading.border.bottom.style */
   border-bottom-width: 2px;
@@ -103,7 +104,7 @@ openness_forms_dims %>%
   /* heading.border.bottom.color */
 }
 
-#podngnykgh .gt_column_spanner {
+#jdujxpeapx .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #A8A8A8;
@@ -111,7 +112,7 @@ openness_forms_dims %>%
   padding-bottom: 4px;
 }
 
-#podngnykgh .gt_col_heading {
+#jdujxpeapx .gt_col_heading {
   color: #000000;
   background-color: #FFFFFF;
   /* column_labels.background.color */
@@ -119,15 +120,16 @@ openness_forms_dims %>%
   /* column_labels.font.size */
   font-weight: initial;
   /* column_labels.font.weight */
+  vertical-align: middle;
   padding: 10px;
   margin: 10px;
 }
 
-#podngnykgh .gt_sep_right {
+#jdujxpeapx .gt_sep_right {
   border-right: 5px solid #FFFFFF;
 }
 
-#podngnykgh .gt_group_heading {
+#jdujxpeapx .gt_group_heading {
   padding: 8px;
   color: #000000;
   background-color: #FFFFFF;
@@ -143,14 +145,15 @@ openness_forms_dims %>%
   border-top-color: #A8A8A8;
   /* stub_group.border.top.color */
   border-bottom-style: solid;
-  /* stub_group.border.bottom  .style */
+  /* stub_group.border.bottom.style */
   border-bottom-width: 2px;
-  /* stub_group.border.bottom  .width */
+  /* stub_group.border.bottom.width */
   border-bottom-color: #A8A8A8;
-  /* stub_group.border.bottom  .color */
+  /* stub_group.border.bottom.color */
+  vertical-align: middle;
 }
 
-#podngnykgh .gt_empty_group_heading {
+#jdujxpeapx .gt_empty_group_heading {
   padding: 0.5px;
   color: #000000;
   background-color: #FFFFFF;
@@ -166,35 +169,37 @@ openness_forms_dims %>%
   border-top-color: #A8A8A8;
   /* stub_group.border.top.color */
   border-bottom-style: solid;
-  /* stub_group.border.bottom  .style */
+  /* stub_group.border.bottom.style */
   border-bottom-width: 2px;
-  /* stub_group.border.bottom  .width */
+  /* stub_group.border.bottom.width */
   border-bottom-color: #A8A8A8;
-  /* stub_group.border.bottom  .color */
+  /* stub_group.border.bottom.color */
+  vertical-align: middle;
 }
 
-#podngnykgh .gt_striped tr:nth-child(even) {
+#jdujxpeapx .gt_striped {
   background-color: #f2f2f2;
 }
 
-#podngnykgh .gt_row {
+#jdujxpeapx .gt_row {
   padding: 10px;
   /* row.padding */
   margin: 10px;
+  vertical-align: middle;
 }
 
-#podngnykgh .gt_stub {
+#jdujxpeapx .gt_stub {
   border-right-style: solid;
   border-right-width: 2px;
   border-right-color: #A8A8A8;
-  text-indent: 5px;
+  padding-left: 12px;
 }
 
-#podngnykgh .gt_stub.gt_row {
+#jdujxpeapx .gt_stub.gt_row {
   background-color: #FFFFFF;
 }
 
-#podngnykgh .gt_summary_row {
+#jdujxpeapx .gt_summary_row {
   background-color: #FFFFFF;
   /* summary_row.background.color */
   padding: 6px;
@@ -203,13 +208,13 @@ openness_forms_dims %>%
   /* summary_row.text_transform */
 }
 
-#podngnykgh .gt_first_summary_row {
+#jdujxpeapx .gt_first_summary_row {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #A8A8A8;
 }
 
-#podngnykgh .gt_table_body {
+#jdujxpeapx .gt_table_body {
   border-top-style: solid;
   /* field.border.top.style */
   border-top-width: 2px;
@@ -224,55 +229,55 @@ openness_forms_dims %>%
   /* field.border.bottom.color */
 }
 
-#podngnykgh .gt_footnote {
+#jdujxpeapx .gt_footnote {
   font-size: 90%;
   /* footnote.font.size */
   padding: 4px;
   /* footnote.padding */
 }
 
-#podngnykgh .gt_sourcenote {
+#jdujxpeapx .gt_sourcenote {
   font-size: 90%;
   /* sourcenote.font.size */
   padding: 4px;
   /* sourcenote.padding */
 }
 
-#podngnykgh .gt_center {
+#jdujxpeapx .gt_center {
   text-align: center;
 }
 
-#podngnykgh .gt_left {
+#jdujxpeapx .gt_left {
   text-align: left;
 }
 
-#podngnykgh .gt_right {
+#jdujxpeapx .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#podngnykgh .gt_font_normal {
+#jdujxpeapx .gt_font_normal {
   font-weight: normal;
 }
 
-#podngnykgh .gt_font_bold {
+#jdujxpeapx .gt_font_bold {
   font-weight: bold;
 }
 
-#podngnykgh .gt_font_italic {
+#jdujxpeapx .gt_font_italic {
   font-style: italic;
 }
 
-#podngnykgh .gt_super {
+#jdujxpeapx .gt_super {
   font-size: 65%;
 }
 
-#podngnykgh .gt_footnote_glyph {
+#jdujxpeapx .gt_footnote_glyph {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="podngnykgh"><!--gt table start-->
+<div id="jdujxpeapx" style="overflow-x:auto;"><!--gt table start-->
 <table class='gt_table'>
 <thead>
 <tr>
@@ -281,6 +286,7 @@ openness_forms_dims %>%
 <tr>
 <th class='gt_heading gt_subtitle gt_font_normal gt_center gt_bottom_border' colspan='4'></th>
 </tr>
+</thead>
 <tr>
 <th class='gt_col_heading gt_center' rowspan='2' colspan='1'>Dimension of participation architecture</th>
 <th class='gt_col_heading gt_column_spanner gt_center' rowspan='1' colspan='2'>Form of openness</th>
@@ -290,22 +296,22 @@ openness_forms_dims %>%
 <th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Transparency</th>
 <th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Accessibility</th>
 </tr>
-<tbody class='gt_table_body gt_striped'>
+<tbody class='gt_table_body'>
 <tr>
-<td class='gt_row gt_left'>Production the way that the community conducts production processes             </td>
-<td class='gt_row gt_left'>Ability to read code and observe or follow production processes             </td>
-<td class='gt_row gt_left'>Ability to change code directly                                       </td>
-<td class='gt_row gt_left'>Production remains within a single corporation                                    </td>
+<td class='gt_row gt_left'>Production the way that the community conducts production processes</td>
+<td class='gt_row gt_left'>Ability to read code and observe or follow production processes</td>
+<td class='gt_row gt_left'>Ability to change code directly</td>
+<td class='gt_row gt_left'>Production remains within a single corporation</td>
 </tr>
 <tr>
-<td class='gt_row gt_left'>Governance the processes by which decisions are made within the community       </td>
-<td class='gt_row gt_left'>Publicly visible governance, observers can understand how decisions are made</td>
-<td class='gt_row gt_left'>Ability to participate in governance                                  </td>
-<td class='gt_row gt_left'>The corporation makes all decisions at its own discretion                         </td>
+<td class='gt_row gt_left gt_striped'>Governance the processes by which decisions are made within the community</td>
+<td class='gt_row gt_left gt_striped'>Publicly visible governance, observers can understand how decisions are made</td>
+<td class='gt_row gt_left gt_striped'>Ability to participate in governance</td>
+<td class='gt_row gt_left gt_striped'>The corporation makes all decisions at its own discretion</td>
 </tr>
 <tr>
 <td class='gt_row gt_left'>Intellectual property the allocation of the rights to use the community’s output</td>
-<td class='gt_row gt_left'>Rights to use code and access source code                                   </td>
+<td class='gt_row gt_left'>Rights to use code and access source code</td>
 <td class='gt_row gt_left'>Ability to reuse and recombine code in the creation of derivative code</td>
 <td class='gt_row gt_left'>Limited use rights are granted by the corporation for a licensing fee interactions</td>
 </tr>
@@ -338,7 +344,6 @@ gasson2013 %>%
     Observed.learning.interactions = "Observed learning interactions"
   ) %>%
   tab_header(title = "Three levels of socially situated engagement with the peer learning community") %>%
-  
   tab_footnote(
     footnote = md("Gasson, Susan, and Jim Waters. “Using a Grounded Theory Approach to Study Online Collaboration Behaviors.” _European Journal of Information Systems_ 22.1 (2013): 95–118."),
     locations = cells_title(groups = "title")
@@ -346,10 +351,11 @@ gasson2013 %>%
 ```
 
 <!--html_preserve--><style>html {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#inlshcgydw .gt_table {
+#hjggcjnlxn .gt_table {
+  display: table;
   border-collapse: collapse;
   margin-left: auto;
   margin-right: auto;
@@ -367,13 +373,13 @@ gasson2013 %>%
   /* table.border.top.color */
 }
 
-#inlshcgydw .gt_heading {
+#hjggcjnlxn .gt_heading {
   background-color: #FFFFFF;
   /* heading.background.color */
   border-bottom-color: #FFFFFF;
 }
 
-#inlshcgydw .gt_title {
+#hjggcjnlxn .gt_title {
   color: #000000;
   font-size: 125%;
   /* heading.title.font.size */
@@ -384,7 +390,7 @@ gasson2013 %>%
   border-bottom-width: 0;
 }
 
-#inlshcgydw .gt_subtitle {
+#hjggcjnlxn .gt_subtitle {
   color: #000000;
   font-size: 85%;
   /* heading.subtitle.font.size */
@@ -395,7 +401,7 @@ gasson2013 %>%
   border-top-width: 0;
 }
 
-#inlshcgydw .gt_bottom_border {
+#hjggcjnlxn .gt_bottom_border {
   border-bottom-style: solid;
   /* heading.border.bottom.style */
   border-bottom-width: 2px;
@@ -404,7 +410,7 @@ gasson2013 %>%
   /* heading.border.bottom.color */
 }
 
-#inlshcgydw .gt_column_spanner {
+#hjggcjnlxn .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #A8A8A8;
@@ -412,7 +418,7 @@ gasson2013 %>%
   padding-bottom: 4px;
 }
 
-#inlshcgydw .gt_col_heading {
+#hjggcjnlxn .gt_col_heading {
   color: #000000;
   background-color: #FFFFFF;
   /* column_labels.background.color */
@@ -420,15 +426,16 @@ gasson2013 %>%
   /* column_labels.font.size */
   font-weight: initial;
   /* column_labels.font.weight */
+  vertical-align: middle;
   padding: 10px;
   margin: 10px;
 }
 
-#inlshcgydw .gt_sep_right {
+#hjggcjnlxn .gt_sep_right {
   border-right: 5px solid #FFFFFF;
 }
 
-#inlshcgydw .gt_group_heading {
+#hjggcjnlxn .gt_group_heading {
   padding: 8px;
   color: #000000;
   background-color: #FFFFFF;
@@ -444,14 +451,15 @@ gasson2013 %>%
   border-top-color: #A8A8A8;
   /* stub_group.border.top.color */
   border-bottom-style: solid;
-  /* stub_group.border.bottom  .style */
+  /* stub_group.border.bottom.style */
   border-bottom-width: 2px;
-  /* stub_group.border.bottom  .width */
+  /* stub_group.border.bottom.width */
   border-bottom-color: #A8A8A8;
-  /* stub_group.border.bottom  .color */
+  /* stub_group.border.bottom.color */
+  vertical-align: middle;
 }
 
-#inlshcgydw .gt_empty_group_heading {
+#hjggcjnlxn .gt_empty_group_heading {
   padding: 0.5px;
   color: #000000;
   background-color: #FFFFFF;
@@ -467,35 +475,37 @@ gasson2013 %>%
   border-top-color: #A8A8A8;
   /* stub_group.border.top.color */
   border-bottom-style: solid;
-  /* stub_group.border.bottom  .style */
+  /* stub_group.border.bottom.style */
   border-bottom-width: 2px;
-  /* stub_group.border.bottom  .width */
+  /* stub_group.border.bottom.width */
   border-bottom-color: #A8A8A8;
-  /* stub_group.border.bottom  .color */
+  /* stub_group.border.bottom.color */
+  vertical-align: middle;
 }
 
-#inlshcgydw .gt_striped tr:nth-child(even) {
+#hjggcjnlxn .gt_striped {
   background-color: #f2f2f2;
 }
 
-#inlshcgydw .gt_row {
+#hjggcjnlxn .gt_row {
   padding: 10px;
   /* row.padding */
   margin: 10px;
+  vertical-align: middle;
 }
 
-#inlshcgydw .gt_stub {
+#hjggcjnlxn .gt_stub {
   border-right-style: solid;
   border-right-width: 2px;
   border-right-color: #A8A8A8;
-  text-indent: 5px;
+  padding-left: 12px;
 }
 
-#inlshcgydw .gt_stub.gt_row {
+#hjggcjnlxn .gt_stub.gt_row {
   background-color: #FFFFFF;
 }
 
-#inlshcgydw .gt_summary_row {
+#hjggcjnlxn .gt_summary_row {
   background-color: #FFFFFF;
   /* summary_row.background.color */
   padding: 6px;
@@ -504,13 +514,13 @@ gasson2013 %>%
   /* summary_row.text_transform */
 }
 
-#inlshcgydw .gt_first_summary_row {
+#hjggcjnlxn .gt_first_summary_row {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #A8A8A8;
 }
 
-#inlshcgydw .gt_table_body {
+#hjggcjnlxn .gt_table_body {
   border-top-style: solid;
   /* field.border.top.style */
   border-top-width: 2px;
@@ -525,55 +535,55 @@ gasson2013 %>%
   /* field.border.bottom.color */
 }
 
-#inlshcgydw .gt_footnote {
+#hjggcjnlxn .gt_footnote {
   font-size: 90%;
   /* footnote.font.size */
   padding: 4px;
   /* footnote.padding */
 }
 
-#inlshcgydw .gt_sourcenote {
+#hjggcjnlxn .gt_sourcenote {
   font-size: 90%;
   /* sourcenote.font.size */
   padding: 4px;
   /* sourcenote.padding */
 }
 
-#inlshcgydw .gt_center {
+#hjggcjnlxn .gt_center {
   text-align: center;
 }
 
-#inlshcgydw .gt_left {
+#hjggcjnlxn .gt_left {
   text-align: left;
 }
 
-#inlshcgydw .gt_right {
+#hjggcjnlxn .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#inlshcgydw .gt_font_normal {
+#hjggcjnlxn .gt_font_normal {
   font-weight: normal;
 }
 
-#inlshcgydw .gt_font_bold {
+#hjggcjnlxn .gt_font_bold {
   font-weight: bold;
 }
 
-#inlshcgydw .gt_font_italic {
+#hjggcjnlxn .gt_font_italic {
   font-style: italic;
 }
 
-#inlshcgydw .gt_super {
+#hjggcjnlxn .gt_super {
   font-size: 65%;
 }
 
-#inlshcgydw .gt_footnote_glyph {
+#hjggcjnlxn .gt_footnote_glyph {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="inlshcgydw"><!--gt table start-->
+<div id="hjggcjnlxn" style="overflow-x:auto;"><!--gt table start-->
 <table class='gt_table'>
 <thead>
 <tr>
@@ -582,21 +592,22 @@ gasson2013 %>%
 <tr>
 <th class='gt_heading gt_subtitle gt_font_normal gt_center gt_bottom_border' colspan='3'></th>
 </tr>
+</thead>
 <tr>
 <th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Level</th>
 <th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Form of activity</th>
 <th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Observed learning interactions</th>
 </tr>
-<tbody class='gt_table_body gt_striped'>
+<tbody class='gt_table_body'>
 <tr>
-<td class='gt_row gt_left'>Participation    </td>
-<td class='gt_row gt_left'>Observable behavior that denotes interaction with course materials through passive activity and externalization (reproduction) of knowledge acquired in this way.                                                                                                                        </td>
-<td class='gt_row gt_left'>Predominantly contractual reproduction of knowledge, as student grades depend on the frequency and quality of discussion posts. This results in individual learning.                                                                   </td>
+<td class='gt_row gt_left'>Participation</td>
+<td class='gt_row gt_left'>Observable behavior that denotes interaction with course materials through passive activity and externalization (reproduction) of knowledge acquired in this way.</td>
+<td class='gt_row gt_left'>Predominantly contractual reproduction of knowledge, as student grades depend on the frequency and quality of discussion posts. This results in individual learning.</td>
 </tr>
 <tr>
-<td class='gt_row gt_left'>Involvement      </td>
-<td class='gt_row gt_left'>Behavior that indicates a psychological state of identifi- cation with course objects, indicating the internalization of knowledge from other learners and the reuse (objectivation) of such knowledge in discussion posts.                                                              </td>
-<td class='gt_row gt_left'>Engaged students, who appear to be enthusiastic about the topic and who debate points raised by others. This results in a joint learning outcome (shared knowledge across peer-learners).                                              </td>
+<td class='gt_row gt_left gt_striped'>Involvement</td>
+<td class='gt_row gt_left gt_striped'>Behavior that indicates a psychological state of identifi- cation with course objects, indicating the internalization of knowledge from other learners and the reuse (objectivation) of such knowledge in discussion posts.</td>
+<td class='gt_row gt_left gt_striped'>Engaged students, who appear to be enthusiastic about the topic and who debate points raised by others. This results in a joint learning outcome (shared knowledge across peer-learners).</td>
 </tr>
 <tr>
 <td class='gt_row gt_left'>Social Engagement</td>
@@ -612,4 +623,360 @@ gasson2013 %>%
 <!--gt table end-->
 </div><!--/html_preserve-->
 
+From: Lindberg, Aron et al. “Coordinating Interdependencies in Online Communities : A Study of an Open Source Software Project Coordinating Interdependencies in Online Communities : A Study of an Open Source Software Project.” _Information Systems Research_ 27.November 2018 (2016): 0–22.
 
+
+```r
+lindberg2016 <- tibble::tribble(
+                                                         ~Construct,                                                                                             ~Operationalization,                        ~op_type,
+      "Nonmodular work (presence of development interdependencies)",                   "A dummy variable indicating which pull requests have two or more files associated with them", "Development interdependencies",
+                          "Degree of development interdependencies",                                                        "Total number of files being coedited in a pull request", "Development interdependencies",
+                  "Average degree of development interdependencies",        "The average number of files being coedited in a pull request within a specific subset of pull requests", "Development interdependencies",
+  "Nonsuperposition work (presence of developer interdependencies)",  "A binary variable indicating which pull requests have two or more developers working on them codebase or not",   "Developer interdependencies",
+                            "Degree of developer interdependencies",                                                       "Number of developers working together on a pull request",   "Developer interdependencies",
+                    "Average degree of developer interdependencies", "The average number of developers working together on a pull request within a specific subset of pull requests",   "Developer interdependencies",
+                                               "Activity variation",                                                "The Shannon (1948) entropy of activity types in a pull request",             "Routine variation",
+                                                  "Order variation",           "The ratio of transitions between activity types to the total number of activities in a pull request",             "Routine variation",
+                                                          "Merging",                        "Binary measure of whether a pull request has been merged into the baseline copy of the",               "Other variables",
+                                                       "Activities",                                    "A count of the number of activities executed in relation to a pull request",               "Other variables",
+                                     "Average number of activities", "The average number of activities executed in relation to a pull request in a specific subset of pull requests",               "Other variables",
+                                                "Code-related work",                  "A binary variable indicating which pull requests have one or more files associated with them",               "Other variables",
+                                  "Proportion of code-related work",  "The percentage of pull requests, within a specific subset of pull requests, that have files attached to them",               "Other variables"
+  )
+```
+
+
+```r
+lindberg2016 %>%
+  group_by(op_type) %>%
+  gt() %>%
+  tab_header(title = "Construct Operationalization") %>%
+  tab_footnote(
+    footnote = md("Aron Lindberg, Nicholas Berente, James Gaskin, Kalle Lyytinen (2016) Coordinating Interdependencies in Online Communities: A Study of an Open Source Software Project. _Information Systems Research_"),
+    locations = cells_title(groups = "title")
+  )
+```
+
+<!--html_preserve--><style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#iqqzrdjvtk .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #000000;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  /* table.background.color */
+  width: auto;
+  /* table.width */
+  border-top-style: solid;
+  /* table.border.top.style */
+  border-top-width: 2px;
+  /* table.border.top.width */
+  border-top-color: #A8A8A8;
+  /* table.border.top.color */
+}
+
+#iqqzrdjvtk .gt_heading {
+  background-color: #FFFFFF;
+  /* heading.background.color */
+  border-bottom-color: #FFFFFF;
+}
+
+#iqqzrdjvtk .gt_title {
+  color: #000000;
+  font-size: 125%;
+  /* heading.title.font.size */
+  padding-top: 4px;
+  /* heading.top.padding */
+  padding-bottom: 1px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#iqqzrdjvtk .gt_subtitle {
+  color: #000000;
+  font-size: 85%;
+  /* heading.subtitle.font.size */
+  padding-top: 1px;
+  padding-bottom: 4px;
+  /* heading.bottom.padding */
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#iqqzrdjvtk .gt_bottom_border {
+  border-bottom-style: solid;
+  /* heading.border.bottom.style */
+  border-bottom-width: 2px;
+  /* heading.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* heading.border.bottom.color */
+}
+
+#iqqzrdjvtk .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#iqqzrdjvtk .gt_col_heading {
+  color: #000000;
+  background-color: #FFFFFF;
+  /* column_labels.background.color */
+  font-size: 16px;
+  /* column_labels.font.size */
+  font-weight: initial;
+  /* column_labels.font.weight */
+  vertical-align: middle;
+  padding: 10px;
+  margin: 10px;
+}
+
+#iqqzrdjvtk .gt_sep_right {
+  border-right: 5px solid #FFFFFF;
+}
+
+#iqqzrdjvtk .gt_group_heading {
+  padding: 8px;
+  color: #000000;
+  background-color: #FFFFFF;
+  /* stub_group.background.color */
+  font-size: 16px;
+  /* stub_group.font.size */
+  font-weight: initial;
+  /* stub_group.font.weight */
+  border-top-style: solid;
+  /* stub_group.border.top.style */
+  border-top-width: 2px;
+  /* stub_group.border.top.width */
+  border-top-color: #A8A8A8;
+  /* stub_group.border.top.color */
+  border-bottom-style: solid;
+  /* stub_group.border.bottom.style */
+  border-bottom-width: 2px;
+  /* stub_group.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* stub_group.border.bottom.color */
+  vertical-align: middle;
+}
+
+#iqqzrdjvtk .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #000000;
+  background-color: #FFFFFF;
+  /* stub_group.background.color */
+  font-size: 16px;
+  /* stub_group.font.size */
+  font-weight: initial;
+  /* stub_group.font.weight */
+  border-top-style: solid;
+  /* stub_group.border.top.style */
+  border-top-width: 2px;
+  /* stub_group.border.top.width */
+  border-top-color: #A8A8A8;
+  /* stub_group.border.top.color */
+  border-bottom-style: solid;
+  /* stub_group.border.bottom.style */
+  border-bottom-width: 2px;
+  /* stub_group.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* stub_group.border.bottom.color */
+  vertical-align: middle;
+}
+
+#iqqzrdjvtk .gt_striped {
+  background-color: #f2f2f2;
+}
+
+#iqqzrdjvtk .gt_row {
+  padding: 10px;
+  /* row.padding */
+  margin: 10px;
+  vertical-align: middle;
+}
+
+#iqqzrdjvtk .gt_stub {
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #A8A8A8;
+  padding-left: 12px;
+}
+
+#iqqzrdjvtk .gt_stub.gt_row {
+  background-color: #FFFFFF;
+}
+
+#iqqzrdjvtk .gt_summary_row {
+  background-color: #FFFFFF;
+  /* summary_row.background.color */
+  padding: 6px;
+  /* summary_row.padding */
+  text-transform: inherit;
+  /* summary_row.text_transform */
+}
+
+#iqqzrdjvtk .gt_first_summary_row {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+}
+
+#iqqzrdjvtk .gt_table_body {
+  border-top-style: solid;
+  /* field.border.top.style */
+  border-top-width: 2px;
+  /* field.border.top.width */
+  border-top-color: #A8A8A8;
+  /* field.border.top.color */
+  border-bottom-style: solid;
+  /* field.border.bottom.style */
+  border-bottom-width: 2px;
+  /* field.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* field.border.bottom.color */
+}
+
+#iqqzrdjvtk .gt_footnote {
+  font-size: 90%;
+  /* footnote.font.size */
+  padding: 4px;
+  /* footnote.padding */
+}
+
+#iqqzrdjvtk .gt_sourcenote {
+  font-size: 90%;
+  /* sourcenote.font.size */
+  padding: 4px;
+  /* sourcenote.padding */
+}
+
+#iqqzrdjvtk .gt_center {
+  text-align: center;
+}
+
+#iqqzrdjvtk .gt_left {
+  text-align: left;
+}
+
+#iqqzrdjvtk .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#iqqzrdjvtk .gt_font_normal {
+  font-weight: normal;
+}
+
+#iqqzrdjvtk .gt_font_bold {
+  font-weight: bold;
+}
+
+#iqqzrdjvtk .gt_font_italic {
+  font-style: italic;
+}
+
+#iqqzrdjvtk .gt_super {
+  font-size: 65%;
+}
+
+#iqqzrdjvtk .gt_footnote_glyph {
+  font-style: italic;
+  font-size: 65%;
+}
+</style>
+<div id="iqqzrdjvtk" style="overflow-x:auto;"><!--gt table start-->
+<table class='gt_table'>
+<thead>
+<tr>
+<th class='gt_heading gt_title gt_font_normal gt_center' colspan='2'>Construct Operationalization<sup class='gt_footnote_glyph'>1</sup></th>
+</tr>
+<tr>
+<th class='gt_heading gt_subtitle gt_font_normal gt_center gt_bottom_border' colspan='2'></th>
+</tr>
+</thead>
+<tr>
+<th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Construct</th>
+<th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Operationalization</th>
+</tr>
+<tbody class='gt_table_body'>
+<tr class='gt_group_heading_row'>
+<td colspan='2' class='gt_group_heading'>Development interdependencies</td>
+</tr>
+<tr>
+<td class='gt_row gt_left'>Nonmodular work (presence of development interdependencies)</td>
+<td class='gt_row gt_left'>A dummy variable indicating which pull requests have two or more files associated with them</td>
+</tr>
+<tr>
+<td class='gt_row gt_left gt_striped'>Degree of development interdependencies</td>
+<td class='gt_row gt_left gt_striped'>Total number of files being coedited in a pull request</td>
+</tr>
+<tr>
+<td class='gt_row gt_left'>Average degree of development interdependencies</td>
+<td class='gt_row gt_left'>The average number of files being coedited in a pull request within a specific subset of pull requests</td>
+</tr>
+<tr class='gt_group_heading_row'>
+<td colspan='2' class='gt_group_heading'>Developer interdependencies</td>
+</tr>
+<tr>
+<td class='gt_row gt_left gt_striped'>Nonsuperposition work (presence of developer interdependencies)</td>
+<td class='gt_row gt_left gt_striped'>A binary variable indicating which pull requests have two or more developers working on them codebase or not</td>
+</tr>
+<tr>
+<td class='gt_row gt_left'>Degree of developer interdependencies</td>
+<td class='gt_row gt_left'>Number of developers working together on a pull request</td>
+</tr>
+<tr>
+<td class='gt_row gt_left gt_striped'>Average degree of developer interdependencies</td>
+<td class='gt_row gt_left gt_striped'>The average number of developers working together on a pull request within a specific subset of pull requests</td>
+</tr>
+<tr class='gt_group_heading_row'>
+<td colspan='2' class='gt_group_heading'>Routine variation</td>
+</tr>
+<tr>
+<td class='gt_row gt_left'>Activity variation</td>
+<td class='gt_row gt_left'>The Shannon (1948) entropy of activity types in a pull request</td>
+</tr>
+<tr>
+<td class='gt_row gt_left gt_striped'>Order variation</td>
+<td class='gt_row gt_left gt_striped'>The ratio of transitions between activity types to the total number of activities in a pull request</td>
+</tr>
+<tr class='gt_group_heading_row'>
+<td colspan='2' class='gt_group_heading'>Other variables</td>
+</tr>
+<tr>
+<td class='gt_row gt_left'>Merging</td>
+<td class='gt_row gt_left'>Binary measure of whether a pull request has been merged into the baseline copy of the</td>
+</tr>
+<tr>
+<td class='gt_row gt_left gt_striped'>Activities</td>
+<td class='gt_row gt_left gt_striped'>A count of the number of activities executed in relation to a pull request</td>
+</tr>
+<tr>
+<td class='gt_row gt_left'>Average number of activities</td>
+<td class='gt_row gt_left'>The average number of activities executed in relation to a pull request in a specific subset of pull requests</td>
+</tr>
+<tr>
+<td class='gt_row gt_left gt_striped'>Code-related work</td>
+<td class='gt_row gt_left gt_striped'>A binary variable indicating which pull requests have one or more files associated with them</td>
+</tr>
+<tr>
+<td class='gt_row gt_left'>Proportion of code-related work</td>
+<td class='gt_row gt_left'>The percentage of pull requests, within a specific subset of pull requests, that have files attached to them</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan='2' class='gt_footnote'><sup class='gt_footnote_glyph'><em>1</em></sup> Aron Lindberg, Nicholas Berente, James Gaskin, Kalle Lyytinen (2016) Coordinating Interdependencies in Online Communities: A Study of an Open Source Software Project. <em>Information Systems Research</em></td>
+</tr>
+</tfoot></table>
+<!--gt table end-->
+</div><!--/html_preserve-->
+
+__Original table as image__
+![Lindberg 2016 Table 4](https://i.imgur.com/B4MezFX.png)

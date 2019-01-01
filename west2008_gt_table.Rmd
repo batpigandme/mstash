@@ -59,7 +59,6 @@ gasson2013 %>%
     Observed.learning.interactions = "Observed learning interactions"
   ) %>%
   tab_header(title = "Three levels of socially situated engagement with the peer learning community") %>%
-  
   tab_footnote(
     footnote = md("Gasson, Susan, and Jim Waters. “Using a Grounded Theory Approach to Study Online Collaboration Behaviors.” _European Journal of Information Systems_ 22.1 (2013): 95–118."),
     locations = cells_title(groups = "title")
@@ -67,4 +66,38 @@ gasson2013 %>%
 
 ```
 
+From: Lindberg, Aron et al. “Coordinating Interdependencies in Online Communities : A Study of an Open Source Software Project Coordinating Interdependencies in Online Communities : A Study of an Open Source Software Project.” _Information Systems Research_ 27.November 2018 (2016): 0–22.
 
+```{r}
+lindberg2016 <- tibble::tribble(
+                                                         ~Construct,                                                                                             ~Operationalization,                        ~op_type,
+      "Nonmodular work (presence of development interdependencies)",                   "A dummy variable indicating which pull requests have two or more files associated with them", "Development interdependencies",
+                          "Degree of development interdependencies",                                                        "Total number of files being coedited in a pull request", "Development interdependencies",
+                  "Average degree of development interdependencies",        "The average number of files being coedited in a pull request within a specific subset of pull requests", "Development interdependencies",
+  "Nonsuperposition work (presence of developer interdependencies)",  "A binary variable indicating which pull requests have two or more developers working on them codebase or not",   "Developer interdependencies",
+                            "Degree of developer interdependencies",                                                       "Number of developers working together on a pull request",   "Developer interdependencies",
+                    "Average degree of developer interdependencies", "The average number of developers working together on a pull request within a specific subset of pull requests",   "Developer interdependencies",
+                                               "Activity variation",                                                "The Shannon (1948) entropy of activity types in a pull request",             "Routine variation",
+                                                  "Order variation",           "The ratio of transitions between activity types to the total number of activities in a pull request",             "Routine variation",
+                                                          "Merging",                        "Binary measure of whether a pull request has been merged into the baseline copy of the",               "Other variables",
+                                                       "Activities",                                    "A count of the number of activities executed in relation to a pull request",               "Other variables",
+                                     "Average number of activities", "The average number of activities executed in relation to a pull request in a specific subset of pull requests",               "Other variables",
+                                                "Code-related work",                  "A binary variable indicating which pull requests have one or more files associated with them",               "Other variables",
+                                  "Proportion of code-related work",  "The percentage of pull requests, within a specific subset of pull requests, that have files attached to them",               "Other variables"
+  )
+
+```
+
+```{r}
+lindberg2016 %>%
+  group_by(op_type) %>%
+  gt() %>%
+  tab_header(title = "Construct Operationalization") %>%
+  tab_footnote(
+    footnote = md("Aron Lindberg, Nicholas Berente, James Gaskin, Kalle Lyytinen (2016) Coordinating Interdependencies in Online Communities: A Study of an Open Source Software Project. _Information Systems Research_"),
+    locations = cells_title(groups = "title")
+  )
+```
+
+__Original table as image__
+![Lindberg 2016 Table 4](https://i.imgur.com/B4MezFX.png)
