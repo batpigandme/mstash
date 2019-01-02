@@ -39,16 +39,11 @@ openness_forms_dims %>%
   )
 ```
 
-```
-## Warning: The `printer` argument is soft-deprecated as of rlang 0.3.0.
-## This warning is displayed once per session.
-```
-
 <!--html_preserve--><style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#sagltllrzk .gt_table {
+#yckxfhhypq .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -67,13 +62,13 @@ openness_forms_dims %>%
   /* table.border.top.color */
 }
 
-#sagltllrzk .gt_heading {
+#yckxfhhypq .gt_heading {
   background-color: #FFFFFF;
   /* heading.background.color */
   border-bottom-color: #FFFFFF;
 }
 
-#sagltllrzk .gt_title {
+#yckxfhhypq .gt_title {
   color: #000000;
   font-size: 125%;
   /* heading.title.font.size */
@@ -84,7 +79,7 @@ openness_forms_dims %>%
   border-bottom-width: 0;
 }
 
-#sagltllrzk .gt_subtitle {
+#yckxfhhypq .gt_subtitle {
   color: #000000;
   font-size: 85%;
   /* heading.subtitle.font.size */
@@ -95,7 +90,7 @@ openness_forms_dims %>%
   border-top-width: 0;
 }
 
-#sagltllrzk .gt_bottom_border {
+#yckxfhhypq .gt_bottom_border {
   border-bottom-style: solid;
   /* heading.border.bottom.style */
   border-bottom-width: 2px;
@@ -104,7 +99,7 @@ openness_forms_dims %>%
   /* heading.border.bottom.color */
 }
 
-#sagltllrzk .gt_column_spanner {
+#yckxfhhypq .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #A8A8A8;
@@ -112,7 +107,7 @@ openness_forms_dims %>%
   padding-bottom: 4px;
 }
 
-#sagltllrzk .gt_col_heading {
+#yckxfhhypq .gt_col_heading {
   color: #000000;
   background-color: #FFFFFF;
   /* column_labels.background.color */
@@ -125,11 +120,11 @@ openness_forms_dims %>%
   margin: 10px;
 }
 
-#sagltllrzk .gt_sep_right {
+#yckxfhhypq .gt_sep_right {
   border-right: 5px solid #FFFFFF;
 }
 
-#sagltllrzk .gt_group_heading {
+#yckxfhhypq .gt_group_heading {
   padding: 8px;
   color: #000000;
   background-color: #FFFFFF;
@@ -153,7 +148,7 @@ openness_forms_dims %>%
   vertical-align: middle;
 }
 
-#sagltllrzk .gt_empty_group_heading {
+#yckxfhhypq .gt_empty_group_heading {
   padding: 0.5px;
   color: #000000;
   background-color: #FFFFFF;
@@ -177,29 +172,29 @@ openness_forms_dims %>%
   vertical-align: middle;
 }
 
-#sagltllrzk .gt_striped {
+#yckxfhhypq .gt_striped {
   background-color: #f2f2f2;
 }
 
-#sagltllrzk .gt_row {
+#yckxfhhypq .gt_row {
   padding: 10px;
   /* row.padding */
   margin: 10px;
   vertical-align: middle;
 }
 
-#sagltllrzk .gt_stub {
+#yckxfhhypq .gt_stub {
   border-right-style: solid;
   border-right-width: 2px;
   border-right-color: #A8A8A8;
   padding-left: 12px;
 }
 
-#sagltllrzk .gt_stub.gt_row {
+#yckxfhhypq .gt_stub.gt_row {
   background-color: #FFFFFF;
 }
 
-#sagltllrzk .gt_summary_row {
+#yckxfhhypq .gt_summary_row {
   background-color: #FFFFFF;
   /* summary_row.background.color */
   padding: 6px;
@@ -208,13 +203,13 @@ openness_forms_dims %>%
   /* summary_row.text_transform */
 }
 
-#sagltllrzk .gt_first_summary_row {
+#yckxfhhypq .gt_first_summary_row {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #A8A8A8;
 }
 
-#sagltllrzk .gt_table_body {
+#yckxfhhypq .gt_table_body {
   border-top-style: solid;
   /* field.border.top.style */
   border-top-width: 2px;
@@ -229,55 +224,55 @@ openness_forms_dims %>%
   /* field.border.bottom.color */
 }
 
-#sagltllrzk .gt_footnote {
+#yckxfhhypq .gt_footnote {
   font-size: 90%;
   /* footnote.font.size */
   padding: 4px;
   /* footnote.padding */
 }
 
-#sagltllrzk .gt_sourcenote {
+#yckxfhhypq .gt_sourcenote {
   font-size: 90%;
   /* sourcenote.font.size */
   padding: 4px;
   /* sourcenote.padding */
 }
 
-#sagltllrzk .gt_center {
+#yckxfhhypq .gt_center {
   text-align: center;
 }
 
-#sagltllrzk .gt_left {
+#yckxfhhypq .gt_left {
   text-align: left;
 }
 
-#sagltllrzk .gt_right {
+#yckxfhhypq .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#sagltllrzk .gt_font_normal {
+#yckxfhhypq .gt_font_normal {
   font-weight: normal;
 }
 
-#sagltllrzk .gt_font_bold {
+#yckxfhhypq .gt_font_bold {
   font-weight: bold;
 }
 
-#sagltllrzk .gt_font_italic {
+#yckxfhhypq .gt_font_italic {
   font-style: italic;
 }
 
-#sagltllrzk .gt_super {
+#yckxfhhypq .gt_super {
   font-size: 65%;
 }
 
-#sagltllrzk .gt_footnote_glyph {
+#yckxfhhypq .gt_footnote_glyph {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="sagltllrzk" style="overflow-x:auto;"><!--gt table start-->
+<div id="yckxfhhypq" style="overflow-x:auto;"><!--gt table start-->
 <table class='gt_table'>
 <thead>
 <tr>
@@ -354,7 +349,7 @@ gasson2013 %>%
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#tkquopgery .gt_table {
+#fdsxazhdhv .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -373,13 +368,13 @@ gasson2013 %>%
   /* table.border.top.color */
 }
 
-#tkquopgery .gt_heading {
+#fdsxazhdhv .gt_heading {
   background-color: #FFFFFF;
   /* heading.background.color */
   border-bottom-color: #FFFFFF;
 }
 
-#tkquopgery .gt_title {
+#fdsxazhdhv .gt_title {
   color: #000000;
   font-size: 125%;
   /* heading.title.font.size */
@@ -390,7 +385,7 @@ gasson2013 %>%
   border-bottom-width: 0;
 }
 
-#tkquopgery .gt_subtitle {
+#fdsxazhdhv .gt_subtitle {
   color: #000000;
   font-size: 85%;
   /* heading.subtitle.font.size */
@@ -401,7 +396,7 @@ gasson2013 %>%
   border-top-width: 0;
 }
 
-#tkquopgery .gt_bottom_border {
+#fdsxazhdhv .gt_bottom_border {
   border-bottom-style: solid;
   /* heading.border.bottom.style */
   border-bottom-width: 2px;
@@ -410,7 +405,7 @@ gasson2013 %>%
   /* heading.border.bottom.color */
 }
 
-#tkquopgery .gt_column_spanner {
+#fdsxazhdhv .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #A8A8A8;
@@ -418,7 +413,7 @@ gasson2013 %>%
   padding-bottom: 4px;
 }
 
-#tkquopgery .gt_col_heading {
+#fdsxazhdhv .gt_col_heading {
   color: #000000;
   background-color: #FFFFFF;
   /* column_labels.background.color */
@@ -431,11 +426,11 @@ gasson2013 %>%
   margin: 10px;
 }
 
-#tkquopgery .gt_sep_right {
+#fdsxazhdhv .gt_sep_right {
   border-right: 5px solid #FFFFFF;
 }
 
-#tkquopgery .gt_group_heading {
+#fdsxazhdhv .gt_group_heading {
   padding: 8px;
   color: #000000;
   background-color: #FFFFFF;
@@ -459,7 +454,7 @@ gasson2013 %>%
   vertical-align: middle;
 }
 
-#tkquopgery .gt_empty_group_heading {
+#fdsxazhdhv .gt_empty_group_heading {
   padding: 0.5px;
   color: #000000;
   background-color: #FFFFFF;
@@ -483,29 +478,29 @@ gasson2013 %>%
   vertical-align: middle;
 }
 
-#tkquopgery .gt_striped {
+#fdsxazhdhv .gt_striped {
   background-color: #f2f2f2;
 }
 
-#tkquopgery .gt_row {
+#fdsxazhdhv .gt_row {
   padding: 10px;
   /* row.padding */
   margin: 10px;
   vertical-align: middle;
 }
 
-#tkquopgery .gt_stub {
+#fdsxazhdhv .gt_stub {
   border-right-style: solid;
   border-right-width: 2px;
   border-right-color: #A8A8A8;
   padding-left: 12px;
 }
 
-#tkquopgery .gt_stub.gt_row {
+#fdsxazhdhv .gt_stub.gt_row {
   background-color: #FFFFFF;
 }
 
-#tkquopgery .gt_summary_row {
+#fdsxazhdhv .gt_summary_row {
   background-color: #FFFFFF;
   /* summary_row.background.color */
   padding: 6px;
@@ -514,13 +509,13 @@ gasson2013 %>%
   /* summary_row.text_transform */
 }
 
-#tkquopgery .gt_first_summary_row {
+#fdsxazhdhv .gt_first_summary_row {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #A8A8A8;
 }
 
-#tkquopgery .gt_table_body {
+#fdsxazhdhv .gt_table_body {
   border-top-style: solid;
   /* field.border.top.style */
   border-top-width: 2px;
@@ -535,55 +530,55 @@ gasson2013 %>%
   /* field.border.bottom.color */
 }
 
-#tkquopgery .gt_footnote {
+#fdsxazhdhv .gt_footnote {
   font-size: 90%;
   /* footnote.font.size */
   padding: 4px;
   /* footnote.padding */
 }
 
-#tkquopgery .gt_sourcenote {
+#fdsxazhdhv .gt_sourcenote {
   font-size: 90%;
   /* sourcenote.font.size */
   padding: 4px;
   /* sourcenote.padding */
 }
 
-#tkquopgery .gt_center {
+#fdsxazhdhv .gt_center {
   text-align: center;
 }
 
-#tkquopgery .gt_left {
+#fdsxazhdhv .gt_left {
   text-align: left;
 }
 
-#tkquopgery .gt_right {
+#fdsxazhdhv .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#tkquopgery .gt_font_normal {
+#fdsxazhdhv .gt_font_normal {
   font-weight: normal;
 }
 
-#tkquopgery .gt_font_bold {
+#fdsxazhdhv .gt_font_bold {
   font-weight: bold;
 }
 
-#tkquopgery .gt_font_italic {
+#fdsxazhdhv .gt_font_italic {
   font-style: italic;
 }
 
-#tkquopgery .gt_super {
+#fdsxazhdhv .gt_super {
   font-size: 65%;
 }
 
-#tkquopgery .gt_footnote_glyph {
+#fdsxazhdhv .gt_footnote_glyph {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="tkquopgery" style="overflow-x:auto;"><!--gt table start-->
+<div id="fdsxazhdhv" style="overflow-x:auto;"><!--gt table start-->
 <table class='gt_table'>
 <thead>
 <tr>
@@ -661,7 +656,7 @@ lindberg2016 %>%
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#lbrumhkqmf .gt_table {
+#tvjkxlszxg .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -680,13 +675,13 @@ lindberg2016 %>%
   /* table.border.top.color */
 }
 
-#lbrumhkqmf .gt_heading {
+#tvjkxlszxg .gt_heading {
   background-color: #FFFFFF;
   /* heading.background.color */
   border-bottom-color: #FFFFFF;
 }
 
-#lbrumhkqmf .gt_title {
+#tvjkxlszxg .gt_title {
   color: #000000;
   font-size: 125%;
   /* heading.title.font.size */
@@ -697,7 +692,7 @@ lindberg2016 %>%
   border-bottom-width: 0;
 }
 
-#lbrumhkqmf .gt_subtitle {
+#tvjkxlszxg .gt_subtitle {
   color: #000000;
   font-size: 85%;
   /* heading.subtitle.font.size */
@@ -708,7 +703,7 @@ lindberg2016 %>%
   border-top-width: 0;
 }
 
-#lbrumhkqmf .gt_bottom_border {
+#tvjkxlszxg .gt_bottom_border {
   border-bottom-style: solid;
   /* heading.border.bottom.style */
   border-bottom-width: 2px;
@@ -717,7 +712,7 @@ lindberg2016 %>%
   /* heading.border.bottom.color */
 }
 
-#lbrumhkqmf .gt_column_spanner {
+#tvjkxlszxg .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #A8A8A8;
@@ -725,7 +720,7 @@ lindberg2016 %>%
   padding-bottom: 4px;
 }
 
-#lbrumhkqmf .gt_col_heading {
+#tvjkxlszxg .gt_col_heading {
   color: #000000;
   background-color: #FFFFFF;
   /* column_labels.background.color */
@@ -738,11 +733,11 @@ lindberg2016 %>%
   margin: 10px;
 }
 
-#lbrumhkqmf .gt_sep_right {
+#tvjkxlszxg .gt_sep_right {
   border-right: 5px solid #FFFFFF;
 }
 
-#lbrumhkqmf .gt_group_heading {
+#tvjkxlszxg .gt_group_heading {
   padding: 8px;
   color: #000000;
   background-color: #FFFFFF;
@@ -766,7 +761,7 @@ lindberg2016 %>%
   vertical-align: middle;
 }
 
-#lbrumhkqmf .gt_empty_group_heading {
+#tvjkxlszxg .gt_empty_group_heading {
   padding: 0.5px;
   color: #000000;
   background-color: #FFFFFF;
@@ -790,29 +785,29 @@ lindberg2016 %>%
   vertical-align: middle;
 }
 
-#lbrumhkqmf .gt_striped {
+#tvjkxlszxg .gt_striped {
   background-color: #f2f2f2;
 }
 
-#lbrumhkqmf .gt_row {
+#tvjkxlszxg .gt_row {
   padding: 10px;
   /* row.padding */
   margin: 10px;
   vertical-align: middle;
 }
 
-#lbrumhkqmf .gt_stub {
+#tvjkxlszxg .gt_stub {
   border-right-style: solid;
   border-right-width: 2px;
   border-right-color: #A8A8A8;
   padding-left: 12px;
 }
 
-#lbrumhkqmf .gt_stub.gt_row {
+#tvjkxlszxg .gt_stub.gt_row {
   background-color: #FFFFFF;
 }
 
-#lbrumhkqmf .gt_summary_row {
+#tvjkxlszxg .gt_summary_row {
   background-color: #FFFFFF;
   /* summary_row.background.color */
   padding: 6px;
@@ -821,13 +816,13 @@ lindberg2016 %>%
   /* summary_row.text_transform */
 }
 
-#lbrumhkqmf .gt_first_summary_row {
+#tvjkxlszxg .gt_first_summary_row {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #A8A8A8;
 }
 
-#lbrumhkqmf .gt_table_body {
+#tvjkxlszxg .gt_table_body {
   border-top-style: solid;
   /* field.border.top.style */
   border-top-width: 2px;
@@ -842,55 +837,55 @@ lindberg2016 %>%
   /* field.border.bottom.color */
 }
 
-#lbrumhkqmf .gt_footnote {
+#tvjkxlszxg .gt_footnote {
   font-size: 90%;
   /* footnote.font.size */
   padding: 4px;
   /* footnote.padding */
 }
 
-#lbrumhkqmf .gt_sourcenote {
+#tvjkxlszxg .gt_sourcenote {
   font-size: 90%;
   /* sourcenote.font.size */
   padding: 4px;
   /* sourcenote.padding */
 }
 
-#lbrumhkqmf .gt_center {
+#tvjkxlszxg .gt_center {
   text-align: center;
 }
 
-#lbrumhkqmf .gt_left {
+#tvjkxlszxg .gt_left {
   text-align: left;
 }
 
-#lbrumhkqmf .gt_right {
+#tvjkxlszxg .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#lbrumhkqmf .gt_font_normal {
+#tvjkxlszxg .gt_font_normal {
   font-weight: normal;
 }
 
-#lbrumhkqmf .gt_font_bold {
+#tvjkxlszxg .gt_font_bold {
   font-weight: bold;
 }
 
-#lbrumhkqmf .gt_font_italic {
+#tvjkxlszxg .gt_font_italic {
   font-style: italic;
 }
 
-#lbrumhkqmf .gt_super {
+#tvjkxlszxg .gt_super {
   font-size: 65%;
 }
 
-#lbrumhkqmf .gt_footnote_glyph {
+#tvjkxlszxg .gt_footnote_glyph {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="lbrumhkqmf" style="overflow-x:auto;"><!--gt table start-->
+<div id="tvjkxlszxg" style="overflow-x:auto;"><!--gt table start-->
 <table class='gt_table'>
 <thead>
 <tr>
@@ -1010,7 +1005,7 @@ lindberg_table1 %>%
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#rjxbqyagou .gt_table {
+#cflpgzanmh .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1029,13 +1024,13 @@ lindberg_table1 %>%
   /* table.border.top.color */
 }
 
-#rjxbqyagou .gt_heading {
+#cflpgzanmh .gt_heading {
   background-color: #FFFFFF;
   /* heading.background.color */
   border-bottom-color: #FFFFFF;
 }
 
-#rjxbqyagou .gt_title {
+#cflpgzanmh .gt_title {
   color: #000000;
   font-size: 125%;
   /* heading.title.font.size */
@@ -1046,7 +1041,7 @@ lindberg_table1 %>%
   border-bottom-width: 0;
 }
 
-#rjxbqyagou .gt_subtitle {
+#cflpgzanmh .gt_subtitle {
   color: #000000;
   font-size: 85%;
   /* heading.subtitle.font.size */
@@ -1057,7 +1052,7 @@ lindberg_table1 %>%
   border-top-width: 0;
 }
 
-#rjxbqyagou .gt_bottom_border {
+#cflpgzanmh .gt_bottom_border {
   border-bottom-style: solid;
   /* heading.border.bottom.style */
   border-bottom-width: 2px;
@@ -1066,7 +1061,7 @@ lindberg_table1 %>%
   /* heading.border.bottom.color */
 }
 
-#rjxbqyagou .gt_column_spanner {
+#cflpgzanmh .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #A8A8A8;
@@ -1074,7 +1069,7 @@ lindberg_table1 %>%
   padding-bottom: 4px;
 }
 
-#rjxbqyagou .gt_col_heading {
+#cflpgzanmh .gt_col_heading {
   color: #000000;
   background-color: #FFFFFF;
   /* column_labels.background.color */
@@ -1087,11 +1082,11 @@ lindberg_table1 %>%
   margin: 10px;
 }
 
-#rjxbqyagou .gt_sep_right {
+#cflpgzanmh .gt_sep_right {
   border-right: 5px solid #FFFFFF;
 }
 
-#rjxbqyagou .gt_group_heading {
+#cflpgzanmh .gt_group_heading {
   padding: 8px;
   color: #000000;
   background-color: #FFFFFF;
@@ -1115,7 +1110,7 @@ lindberg_table1 %>%
   vertical-align: middle;
 }
 
-#rjxbqyagou .gt_empty_group_heading {
+#cflpgzanmh .gt_empty_group_heading {
   padding: 0.5px;
   color: #000000;
   background-color: #FFFFFF;
@@ -1139,29 +1134,29 @@ lindberg_table1 %>%
   vertical-align: middle;
 }
 
-#rjxbqyagou .gt_striped {
+#cflpgzanmh .gt_striped {
   background-color: #f2f2f2;
 }
 
-#rjxbqyagou .gt_row {
+#cflpgzanmh .gt_row {
   padding: 10px;
   /* row.padding */
   margin: 10px;
   vertical-align: middle;
 }
 
-#rjxbqyagou .gt_stub {
+#cflpgzanmh .gt_stub {
   border-right-style: solid;
   border-right-width: 2px;
   border-right-color: #A8A8A8;
   padding-left: 12px;
 }
 
-#rjxbqyagou .gt_stub.gt_row {
+#cflpgzanmh .gt_stub.gt_row {
   background-color: #FFFFFF;
 }
 
-#rjxbqyagou .gt_summary_row {
+#cflpgzanmh .gt_summary_row {
   background-color: #FFFFFF;
   /* summary_row.background.color */
   padding: 6px;
@@ -1170,13 +1165,13 @@ lindberg_table1 %>%
   /* summary_row.text_transform */
 }
 
-#rjxbqyagou .gt_first_summary_row {
+#cflpgzanmh .gt_first_summary_row {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #A8A8A8;
 }
 
-#rjxbqyagou .gt_table_body {
+#cflpgzanmh .gt_table_body {
   border-top-style: solid;
   /* field.border.top.style */
   border-top-width: 2px;
@@ -1191,55 +1186,55 @@ lindberg_table1 %>%
   /* field.border.bottom.color */
 }
 
-#rjxbqyagou .gt_footnote {
+#cflpgzanmh .gt_footnote {
   font-size: 90%;
   /* footnote.font.size */
   padding: 4px;
   /* footnote.padding */
 }
 
-#rjxbqyagou .gt_sourcenote {
+#cflpgzanmh .gt_sourcenote {
   font-size: 90%;
   /* sourcenote.font.size */
   padding: 4px;
   /* sourcenote.padding */
 }
 
-#rjxbqyagou .gt_center {
+#cflpgzanmh .gt_center {
   text-align: center;
 }
 
-#rjxbqyagou .gt_left {
+#cflpgzanmh .gt_left {
   text-align: left;
 }
 
-#rjxbqyagou .gt_right {
+#cflpgzanmh .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#rjxbqyagou .gt_font_normal {
+#cflpgzanmh .gt_font_normal {
   font-weight: normal;
 }
 
-#rjxbqyagou .gt_font_bold {
+#cflpgzanmh .gt_font_bold {
   font-weight: bold;
 }
 
-#rjxbqyagou .gt_font_italic {
+#cflpgzanmh .gt_font_italic {
   font-style: italic;
 }
 
-#rjxbqyagou .gt_super {
+#cflpgzanmh .gt_super {
   font-size: 65%;
 }
 
-#rjxbqyagou .gt_footnote_glyph {
+#cflpgzanmh .gt_footnote_glyph {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="rjxbqyagou" style="overflow-x:auto;"><!--gt table start-->
+<div id="cflpgzanmh" style="overflow-x:auto;"><!--gt table start-->
 <table class='gt_table'>
 <thead>
 <tr>
@@ -1280,3 +1275,357 @@ lindberg_table1 %>%
 </div><!--/html_preserve-->
 
 ![Lindberg 2016 Table 1](https://i.imgur.com/9aTX0Gp.png)
+
+From: Gasson, Susan, and Michelle Purcelle. “Legitimate Peripheral Participation in Hybrid FOSS Community Innovation.” Proceedings of the 51st Hawaii International Conference on System Sciences. Vol. 9. N.p., 2018. 4554–4563. Print.
+
+
+```r
+gasson2018 <- tibble::tribble(
+                                                          ~Modes.of.peripheral.participation,                                                                                        ~Tech.affordances,                                                                         ~Performativity.effects.of.technology.use,                                                                                     ~Sociocultural.affordances,                                                                          ~Participation.effects.of.social.apprenticeship,                                                                                                               ~LPP.outcome,
+           "1. New peripheral user does not follow advice to discuss idea before submission",                                           "Bug reporting tool offers structured idea submission and evaluation (status & priority)",                         "None for user – idea disappears into technology black box that communicates no progress",                     "Admin reviews change requests - only selected if user aligns feature with comm. interests",                                       "None for user, as admin selects and monitors implementation independent of user.",                                                                       "Little or no user learning or community visibility",
+                             "2. User discusses idea on community IRC channel or email list",                                         "Steep learning curve on IRC as user understands turn-taking & genre of text communication",                    "Idea is explored across software developers. Discussion sensitizes others to value of change",                                                  "Need s/w dev. collaborator to co-create persuasive use- case",       "Aligns a network- of-practice: a set of developers who coordinate development activity via online tech. platform",                                        "Idea is legitimized, and user gains some visibility in community (social capital)",
+              "3. Users collaborate around shared interests in special interest group (SIG)", "Collaboration with other users in virtual meetings. Coordination power depends on ability to legitimize access to exclusive space", "Ideas evaluated by application domain experts; Ideas gain comm. support; Users develop community social network", "Idea improvers develop ideas  Idea supporters vote for idea; Group memory managers recall rationale of change", "Persuasive use- case is developed for idea; Influence & social support provided SIG retains memory of change rationale", "User enculturated in socio-cultural community norms & practices; User gains social network of application domain experts",
+                                  "4. User leads or takes prominent role in SIG or outreach",                                                                                 "Persistence of trace records indicate role in SIG",                                                                    "Provides user visibility to tech. developers",                                                           "Provides social capital to user with s/w developers",                                                            "Legitimates user as influential decision-maker in community",                                                                              "Moves user away from periphery towards core",
+  "5. User engages in experiential learning by collaborating with software dev. discussions",                                                           "IRC permits rapid feedback; email list posts provide diffusion of ideas",                            "User is exposed to suggestions & questions that develop/clarify persuasive use- case",                                      "Need s/w dev. or admin sponsor to allocate effort to idea implementation",                     "Allows user to participate in s/w devt. practices Progresses change request towards implementation",                   "User enculturated in s/w development, practices; User gains social network of tech. developer contacts",
+             "6. User acquires software development expertise through experiential learning",                                                   "Steep learning curve as user must engage via github & code tools to participate",                                         "Tech. tools for s/w development become ready- to-hand; automatic in use",                         "User allowed to participate in near-to-core activities, (code development. & testing)",                               "User gains access to s/w development tech. platform; allows user to modify software code",                                                      "User acquires software expert status & engages with core developers",
+                          "7. User provides funding or effort for software code development",                                                       "Attracts attention, improving chance that idea will be selected for release",                                                      "Raises status & priority of feature request or change idea",                                                      "Admins prioritize changes that already have devt. effort",                                                  "Feature is more likely to progress rapidly & be scheduled for release",                                                   "Raises legitimacy of user as someone who can provide funding or effort",
+              "8. User demon- strates software expertise & prod. knowledge via interactions",                                                                                "User gains code access and modification privileges",                                                    "User can influence feature adoption by providing sample code",                                              "User recognized as application domain and software domain expert",                       "User participates in organizing product releases; Ultimately user awarded core commit privileges",                                                 "User gains social capital and ultimately gains core community membership"
+  )
+```
+
+
+```r
+gasson2018 %>%
+  gt() %>%
+    tab_header(title = "Effects of various forms of participation on socio-technical participation architecture-in-practice and on outcomes affecting legitimate peripheral participation") %>%
+  tab_footnote(
+    footnote = md("Gasson, Susan, and Michelle Purcelle. “Legitimate Peripheral Participation in Hybrid FOSS Community Innovation.” _Proceedings of the 51st Hawaii International Conference on System Sciences_. Vol. 9. N.p., 2018. 4554–4563."),
+    locations = cells_title(groups = "title")
+  )
+```
+
+<!--html_preserve--><style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#bhszaknvgl .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #000000;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  /* table.background.color */
+  width: auto;
+  /* table.width */
+  border-top-style: solid;
+  /* table.border.top.style */
+  border-top-width: 2px;
+  /* table.border.top.width */
+  border-top-color: #A8A8A8;
+  /* table.border.top.color */
+}
+
+#bhszaknvgl .gt_heading {
+  background-color: #FFFFFF;
+  /* heading.background.color */
+  border-bottom-color: #FFFFFF;
+}
+
+#bhszaknvgl .gt_title {
+  color: #000000;
+  font-size: 125%;
+  /* heading.title.font.size */
+  padding-top: 4px;
+  /* heading.top.padding */
+  padding-bottom: 1px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#bhszaknvgl .gt_subtitle {
+  color: #000000;
+  font-size: 85%;
+  /* heading.subtitle.font.size */
+  padding-top: 1px;
+  padding-bottom: 4px;
+  /* heading.bottom.padding */
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#bhszaknvgl .gt_bottom_border {
+  border-bottom-style: solid;
+  /* heading.border.bottom.style */
+  border-bottom-width: 2px;
+  /* heading.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* heading.border.bottom.color */
+}
+
+#bhszaknvgl .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#bhszaknvgl .gt_col_heading {
+  color: #000000;
+  background-color: #FFFFFF;
+  /* column_labels.background.color */
+  font-size: 16px;
+  /* column_labels.font.size */
+  font-weight: initial;
+  /* column_labels.font.weight */
+  vertical-align: middle;
+  padding: 10px;
+  margin: 10px;
+}
+
+#bhszaknvgl .gt_sep_right {
+  border-right: 5px solid #FFFFFF;
+}
+
+#bhszaknvgl .gt_group_heading {
+  padding: 8px;
+  color: #000000;
+  background-color: #FFFFFF;
+  /* stub_group.background.color */
+  font-size: 16px;
+  /* stub_group.font.size */
+  font-weight: initial;
+  /* stub_group.font.weight */
+  border-top-style: solid;
+  /* stub_group.border.top.style */
+  border-top-width: 2px;
+  /* stub_group.border.top.width */
+  border-top-color: #A8A8A8;
+  /* stub_group.border.top.color */
+  border-bottom-style: solid;
+  /* stub_group.border.bottom.style */
+  border-bottom-width: 2px;
+  /* stub_group.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* stub_group.border.bottom.color */
+  vertical-align: middle;
+}
+
+#bhszaknvgl .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #000000;
+  background-color: #FFFFFF;
+  /* stub_group.background.color */
+  font-size: 16px;
+  /* stub_group.font.size */
+  font-weight: initial;
+  /* stub_group.font.weight */
+  border-top-style: solid;
+  /* stub_group.border.top.style */
+  border-top-width: 2px;
+  /* stub_group.border.top.width */
+  border-top-color: #A8A8A8;
+  /* stub_group.border.top.color */
+  border-bottom-style: solid;
+  /* stub_group.border.bottom.style */
+  border-bottom-width: 2px;
+  /* stub_group.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* stub_group.border.bottom.color */
+  vertical-align: middle;
+}
+
+#bhszaknvgl .gt_striped {
+  background-color: #f2f2f2;
+}
+
+#bhszaknvgl .gt_row {
+  padding: 10px;
+  /* row.padding */
+  margin: 10px;
+  vertical-align: middle;
+}
+
+#bhszaknvgl .gt_stub {
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #A8A8A8;
+  padding-left: 12px;
+}
+
+#bhszaknvgl .gt_stub.gt_row {
+  background-color: #FFFFFF;
+}
+
+#bhszaknvgl .gt_summary_row {
+  background-color: #FFFFFF;
+  /* summary_row.background.color */
+  padding: 6px;
+  /* summary_row.padding */
+  text-transform: inherit;
+  /* summary_row.text_transform */
+}
+
+#bhszaknvgl .gt_first_summary_row {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+}
+
+#bhszaknvgl .gt_table_body {
+  border-top-style: solid;
+  /* field.border.top.style */
+  border-top-width: 2px;
+  /* field.border.top.width */
+  border-top-color: #A8A8A8;
+  /* field.border.top.color */
+  border-bottom-style: solid;
+  /* field.border.bottom.style */
+  border-bottom-width: 2px;
+  /* field.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* field.border.bottom.color */
+}
+
+#bhszaknvgl .gt_footnote {
+  font-size: 90%;
+  /* footnote.font.size */
+  padding: 4px;
+  /* footnote.padding */
+}
+
+#bhszaknvgl .gt_sourcenote {
+  font-size: 90%;
+  /* sourcenote.font.size */
+  padding: 4px;
+  /* sourcenote.padding */
+}
+
+#bhszaknvgl .gt_center {
+  text-align: center;
+}
+
+#bhszaknvgl .gt_left {
+  text-align: left;
+}
+
+#bhszaknvgl .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#bhszaknvgl .gt_font_normal {
+  font-weight: normal;
+}
+
+#bhszaknvgl .gt_font_bold {
+  font-weight: bold;
+}
+
+#bhszaknvgl .gt_font_italic {
+  font-style: italic;
+}
+
+#bhszaknvgl .gt_super {
+  font-size: 65%;
+}
+
+#bhszaknvgl .gt_footnote_glyph {
+  font-style: italic;
+  font-size: 65%;
+}
+</style>
+<div id="bhszaknvgl" style="overflow-x:auto;"><!--gt table start-->
+<table class='gt_table'>
+<thead>
+<tr>
+<th class='gt_heading gt_title gt_font_normal gt_center' colspan='6'>Effects of various forms of participation on socio-technical participation architecture-in-practice and on outcomes affecting legitimate peripheral participation<sup class='gt_footnote_glyph'>1</sup></th>
+</tr>
+<tr>
+<th class='gt_heading gt_subtitle gt_font_normal gt_center gt_bottom_border' colspan='6'></th>
+</tr>
+</thead>
+<tr>
+<th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Modes.of.peripheral.participation</th>
+<th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Tech.affordances</th>
+<th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Performativity.effects.of.technology.use</th>
+<th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Sociocultural.affordances</th>
+<th class='gt_col_heading gt_left' rowspan='1' colspan='1'>Participation.effects.of.social.apprenticeship</th>
+<th class='gt_col_heading gt_left' rowspan='1' colspan='1'>LPP.outcome</th>
+</tr>
+<tbody class='gt_table_body'>
+<tr>
+<td class='gt_row gt_left'>1. New peripheral user does not follow advice to discuss idea before submission</td>
+<td class='gt_row gt_left'>Bug reporting tool offers structured idea submission and evaluation (status &amp; priority)</td>
+<td class='gt_row gt_left'>None for user – idea disappears into technology black box that communicates no progress</td>
+<td class='gt_row gt_left'>Admin reviews change requests - only selected if user aligns feature with comm. interests</td>
+<td class='gt_row gt_left'>None for user, as admin selects and monitors implementation independent of user.</td>
+<td class='gt_row gt_left'>Little or no user learning or community visibility</td>
+</tr>
+<tr>
+<td class='gt_row gt_left gt_striped'>2. User discusses idea on community IRC channel or email list</td>
+<td class='gt_row gt_left gt_striped'>Steep learning curve on IRC as user understands turn-taking &amp; genre of text communication</td>
+<td class='gt_row gt_left gt_striped'>Idea is explored across software developers. Discussion sensitizes others to value of change</td>
+<td class='gt_row gt_left gt_striped'>Need s/w dev. collaborator to co-create persuasive use- case</td>
+<td class='gt_row gt_left gt_striped'>Aligns a network- of-practice: a set of developers who coordinate development activity via online tech. platform</td>
+<td class='gt_row gt_left gt_striped'>Idea is legitimized, and user gains some visibility in community (social capital)</td>
+</tr>
+<tr>
+<td class='gt_row gt_left'>3. Users collaborate around shared interests in special interest group (SIG)</td>
+<td class='gt_row gt_left'>Collaboration with other users in virtual meetings. Coordination power depends on ability to legitimize access to exclusive space</td>
+<td class='gt_row gt_left'>Ideas evaluated by application domain experts; Ideas gain comm. support; Users develop community social network</td>
+<td class='gt_row gt_left'>Idea improvers develop ideas  Idea supporters vote for idea; Group memory managers recall rationale of change</td>
+<td class='gt_row gt_left'>Persuasive use- case is developed for idea; Influence &amp; social support provided SIG retains memory of change rationale</td>
+<td class='gt_row gt_left'>User enculturated in socio-cultural community norms &amp; practices; User gains social network of application domain experts</td>
+</tr>
+<tr>
+<td class='gt_row gt_left gt_striped'>4. User leads or takes prominent role in SIG or outreach</td>
+<td class='gt_row gt_left gt_striped'>Persistence of trace records indicate role in SIG</td>
+<td class='gt_row gt_left gt_striped'>Provides user visibility to tech. developers</td>
+<td class='gt_row gt_left gt_striped'>Provides social capital to user with s/w developers</td>
+<td class='gt_row gt_left gt_striped'>Legitimates user as influential decision-maker in community</td>
+<td class='gt_row gt_left gt_striped'>Moves user away from periphery towards core</td>
+</tr>
+<tr>
+<td class='gt_row gt_left'>5. User engages in experiential learning by collaborating with software dev. discussions</td>
+<td class='gt_row gt_left'>IRC permits rapid feedback; email list posts provide diffusion of ideas</td>
+<td class='gt_row gt_left'>User is exposed to suggestions &amp; questions that develop/clarify persuasive use- case</td>
+<td class='gt_row gt_left'>Need s/w dev. or admin sponsor to allocate effort to idea implementation</td>
+<td class='gt_row gt_left'>Allows user to participate in s/w devt. practices Progresses change request towards implementation</td>
+<td class='gt_row gt_left'>User enculturated in s/w development, practices; User gains social network of tech. developer contacts</td>
+</tr>
+<tr>
+<td class='gt_row gt_left gt_striped'>6. User acquires software development expertise through experiential learning</td>
+<td class='gt_row gt_left gt_striped'>Steep learning curve as user must engage via github &amp; code tools to participate</td>
+<td class='gt_row gt_left gt_striped'>Tech. tools for s/w development become ready- to-hand; automatic in use</td>
+<td class='gt_row gt_left gt_striped'>User allowed to participate in near-to-core activities, (code development. &amp; testing)</td>
+<td class='gt_row gt_left gt_striped'>User gains access to s/w development tech. platform; allows user to modify software code</td>
+<td class='gt_row gt_left gt_striped'>User acquires software expert status &amp; engages with core developers</td>
+</tr>
+<tr>
+<td class='gt_row gt_left'>7. User provides funding or effort for software code development</td>
+<td class='gt_row gt_left'>Attracts attention, improving chance that idea will be selected for release</td>
+<td class='gt_row gt_left'>Raises status &amp; priority of feature request or change idea</td>
+<td class='gt_row gt_left'>Admins prioritize changes that already have devt. effort</td>
+<td class='gt_row gt_left'>Feature is more likely to progress rapidly &amp; be scheduled for release</td>
+<td class='gt_row gt_left'>Raises legitimacy of user as someone who can provide funding or effort</td>
+</tr>
+<tr>
+<td class='gt_row gt_left gt_striped'>8. User demon- strates software expertise &amp; prod. knowledge via interactions</td>
+<td class='gt_row gt_left gt_striped'>User gains code access and modification privileges</td>
+<td class='gt_row gt_left gt_striped'>User can influence feature adoption by providing sample code</td>
+<td class='gt_row gt_left gt_striped'>User recognized as application domain and software domain expert</td>
+<td class='gt_row gt_left gt_striped'>User participates in organizing product releases; Ultimately user awarded core commit privileges</td>
+<td class='gt_row gt_left gt_striped'>User gains social capital and ultimately gains core community membership</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan='6' class='gt_footnote'><sup class='gt_footnote_glyph'><em>1</em></sup> Gasson, Susan, and Michelle Purcelle. “Legitimate Peripheral Participation in Hybrid FOSS Community Innovation.” <em>Proceedings of the 51st Hawaii International Conference on System Sciences</em>. Vol. 9. N.p., 2018. 4554–4563.</td>
+</tr>
+</tfoot></table>
+<!--gt table end-->
+</div><!--/html_preserve-->
+
