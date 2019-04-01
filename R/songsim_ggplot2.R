@@ -50,23 +50,28 @@ plot_snowflake <- function(artist, song, col1 = "white", col2 = "dodgerblue4"){
 }
 
 
-plot_snowflake("Abba", "Waterloo")
-
+# Lizzo -------------------------------------------------------------------
 # colour source: https://buy.gaytimes.co.uk/products/gay-times-august-2018-lizzo
-plot_snowflake("Lizzo", "Good As Hell", col1 = "#FFF200", col2 = "#ED1B23")
+plot_snowflake("Lizzo", "Good As Hell", col1 = "#FFF200", col2 = "#030303")
 
 ggsave("goodashell.png", path = "~/mstash/images/songsim/", width = 7, height = 7)
 
 # colour source: https://www.videostatic.com/sites/default/files/styles/post/public/lizzo_juice.jpg?itok=zldtIRK4
+plot_snowflake("Lizzo", "Juice", col1 = "#B1229C", col2 = "#20102C")
 
+ggsave("juice.png", path = "~/mstash/images/songsim/", width = 7, height = 7)
+
+# colour source: https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/LizzoBoys2018Single.jpg/220px-LizzoBoys2018Single.jpg
+plot_snowflake("Lizzo", "Boys", col1 = "#FFFFFF", col2 = "#D303AA")
+
+ggsave("boys.png", path = "~/mstash/images/songsim/", width = 7, height = 7)
+
+# colour source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS00Qmh-p7KxE8FwbwxI7nRs0TF5GMGVNav85-AB09HL0WlgM15
+plot_snowflake("Lizzo", "Water Me", col1 = "#FFFFFF", col2 = "#C21921")
+
+ggsave("waterme.png", path = "~/mstash/images/songsim/", width = 7, height = 7)
 
 # examples ----------------------------------------------------------------
-ggsave("Abba-Waterloo.png")
-
-artist = "Thomas Edison"
-song <- "Mary Had a Little Lamb"
-lyrics <- "Mary had a little lamb, whose fleece was white as snow. And everywhere that Mary went, the lamb was sure to go."
-
 library(gridExtra)
 png("DaftPunk-Queen.png", width = 1024, height = 768)
 l1 <- plot_snowflake("Daft Punk", "Around the world")
