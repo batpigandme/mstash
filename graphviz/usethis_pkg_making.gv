@@ -1,0 +1,27 @@
+digraph finite_state_machine {
+	rankdir=LR;
+//	rankdir=RL;
+	size="8,5"
+	node [shape = rectangle];
+	"On GH"-> "Cloned?" [ label = "Yes" ];
+        "Cloned?"-> "Pull from repo" [ label = "Yes" ];
+        "Cloned?"-> "create_from_github()" [ label = "No" ];
+	"On GH"-> "create_package()" [ label = "No" ];
+	"create_package()" ->"use_git()";
+	"use_git()" -> "Edit DESCRIPTION";
+	"Edit DESCRIPTION" -> "use_mit_license()";
+	"use_mit_license()" -> "Write a function";
+	"create_from_github()" -> "Write a function" [ label = "Yes" ];
+    "Pull from repo"-> "Write a function";
+    "Write a function" -> "use_r()" -> "use_test()" -> "load_all()" -> "test()" -> "Pass?";
+	"Pass?" -> "Fix function" [ label = "No" ];
+	"Pass?" -> "More funs?" [ label = "Yes" ];
+	"Fix function" -> "load_all()";
+	"More funs?" -> "Write a function" [ label = "Yes" ];
+	"More funs?" -> "check()" [ label = "No" ];
+	"check()" -> "install()" -> "Commit" -> "Pkg on GH?";
+	"Pkg on GH?" -> "use_github()" [ label = "No" ];
+	"Pkg on GH?" -> "Edit and Knit README" [ label = "Yes" ];
+	"use_github()" -> "use_readme_rmd()" -> "Edit and Knit README";
+
+}
