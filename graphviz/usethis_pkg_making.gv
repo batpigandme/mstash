@@ -1,5 +1,5 @@
 digraph finite_state_machine {
-	rankdir=LR;
+	rankdir=TB;
 //	rankdir=RL;
 	size="8,5"
 	node [shape = rectangle];
@@ -7,10 +7,10 @@ digraph finite_state_machine {
         "Cloned?"-> "Pull from repo" [ label = "Yes" ];
         "Cloned?"-> "create_from_github()" [ label = "No" ];
 	"On GH"-> "create_package()" [ label = "No" ];
-	"create_package()" ->"use_git()";
-	"use_git()" -> "Edit DESCRIPTION";
-	"Edit DESCRIPTION" -> "use_mit_license()";
-	"use_mit_license()" -> "Write a function";
+		"create_package()" ->"use_git()";
+			"use_git()" -> "Edit DESCRIPTION";
+				"Edit DESCRIPTION" -> "use_mit_license()";
+					"use_mit_license()" -> "Write a function";
 	"create_from_github()" -> "Write a function" [ label = "Yes" ];
     "Pull from repo"-> "Write a function";
     "Write a function" -> "use_r()" -> "use_test()" -> "load_all()" -> "test()" -> "Pass?";
